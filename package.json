@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "content-type": "^1.0.4",
-    "formidable": "git+https://github.com/charliehuang423/formidable.git#v2-latest",
+    "formidable": "git+https://github.com/fxfred/formidable.git#v2-latest",
     "needle": "git+https://github.com/tomas/needle.git",
     "object-path": "^0.11.4",
     "underscore": "^1.10.2",

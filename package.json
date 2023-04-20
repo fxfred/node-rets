@@ -1,6 +1,6 @@
 {
   "name": "node-rets",
-  "version": "0.2.12",
+  "version": "0.2.13",
   "description": "Simplified RETS client with minimal dependencies",
   "main": "lib/index.js",
   "scripts": {
@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "content-type": "^1.0.4",
-    "formidable": "^2.0.0-canary.20200402.2",
+    "formidable": "git+https://github.com/charliehuang423/formidable.git#v2-latest",
     "needle": "git+https://github.com/tomas/needle.git",
     "object-path": "^0.11.4",
     "underscore": "^1.10.2",

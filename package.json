@@ -1,6 +1,6 @@
 {
   "name": "node-rets",
-  "version": "0.2.13",
+  "version": "0.2.14",
   "description": "Simplified RETS client with minimal dependencies",
   "main": "lib/index.js",
   "scripts": {
@@ -40,7 +40,7 @@
   "dependencies": {
     "content-type": "^1.0.4",
     "formidable": "^3.5.1",
-    "needle": "git+https://github.com/tomas/needle.git",
+    "needle": "git+https://github.com/fxfred/needle.git",
     "object-path": "^0.11.4",
     "underscore": "^1.10.2",
     "underscore.string": "^3.3.5",
